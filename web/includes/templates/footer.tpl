@@ -1,0 +1,2 @@
+<p class="footer-links"><a href="{link}/iot/go" target="_new">Contact us</a> | <a href="{link}/help" target="_new">FAQ</a> | <a href="{link}/papers/termsAndConditions" target="_new">Terms and conditions</a> | <a href="{link}/papers/privacy" target="_new">Privacy policy</a> | <a href="{link}/groups/ConsejosdeSeguridad">Security</a></p>
+	<p class="copyright">© 2014 Lunaa. IDKWeb is based on nothing at all. Images belong to Sulake and I don't take any credit using them.</p>
